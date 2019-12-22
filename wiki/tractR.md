@@ -1,17 +1,16 @@
 <p align="center">
-  <a href="https://github.com/JobGetabu/Darasa-IEEEMadC">
-    <img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/launcher.png" alt="Darasa" width=180 height=150>
+  <a href="https://github.com/itsabsalom/IEEEmadC-wiki/blob/gh-pages/wiki/tractR.md">
+   
   </a>
-  <h3 align="center">Darasa</h3>
+  <h3 align="center">tractR</h3>
 </p>
 <p align="center">
-    <h4>Darasa project is a class attendance, monitoring and management system that comprise of two android applications and a web      dashboard.<br></h4>
+    <h4>tractR is an android app that helps farmers rent tractors.<br></h4>
 </p>
 <p>
-   <h5>Darasa Student app is an attendance-recording app that helps students confirm their class attendance. 
-As a Student, you will also be able to plan your schedule and classes easily with darasa timetable. <br></h5>
+   <h5>TractR is a mobile application that aims to allow farmers to till their land through renting tractors only when they need to till their land. Tillage is the agricultural preparation of soil by as digging, stirring, and overturning. In order to till land that is great in size, using a tractor to till the most efficient and effective method available.  <br></h5>
 
-   <h5>Darasa Lecturer app essentially helps the Lecturer plan their semester well ahead of time. It provides swift and easy way of creating and managing classes. On top, it allows you to track attendance of students in each unit/class you teach.<br></h5>
+
 </p>
 
 ## Table of contents
@@ -24,52 +23,30 @@ As a Student, you will also be able to plan your schedule and classes easily wit
 - [Permissions](#)
 - [Versions](#)
 - [Contact Information](#)
-- [Darasa Lecturer App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaLecturer)
-- [Darasa Student App](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaStudent)
-- [Darasa Web Dashboard](https://github.com/JobGetabu/Darasa-IEEEMadC/tree/master/DarasaWeb)
+
 
 
 
 ### about Darasa Lecturer app
 
-With Darasa Lecturer app. A lecturer creates a class by providing information like unit name, unit code, course(s) that are taking the class. The semester and year, this unit is going to take place. The room the class will be taking place. During lesson time the lecturer forms a local network that capturers all student devices that are currently in the classroom to record and confirm their attendance.
+2.0	Problem Definition
+Tilling of land is a very intensive process. In 2006, almost 75% of Kenyans made their living through farming. Fortunately, most Kenyans who do farm have acres of land to their disposal but they lack the labour and or machinery to maximise use of the land. The best way to prepare land is through tilling it using a tractor but a mid sized tractor can cost upwards of 1.5 million Kenya Shillings. An amount that is too high for most farmers to afford.
+
+TractR as a start-up provides a soliton to the 2030 Sustainable Development Goals created by the United Nations General Assembly
+Zero Hunger
+Industry, Innovation and Infrastructure
+Life on Land
+Sustainable Cities and Communities 
 
 
-### GENERAL PREVIEW DARASA LECTURER
-![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/lec_screens.png)
 
 
-### about Darasa Student app
-
-With Darasa Student app. A student will be able to plan for his/her classes well ahead of time as it displays the classes for the whole semester. On top, the student is able to scan for the lecturer’s network in order to confirm the attendance. The student is also able to receive special instructions from Lecturer and receive e-learning materials easily.
-
-### GENERAL PREVIEW DARASA STUDENT
-![3images](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/student%20screens.png)
 
 
 ### about Darasa Web dashboard
 
 With Darasa Web dashboard. The administration of the school are able to track the attendance of students. Track attendance of individual units, students and lecturers. With statistical charts and graphs managing the students is a delight again.
 
-
-### GENERAL PREVIEW DARASA WEB
-<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/Dashboard.PNG">
-
-
-### GENERAL PREVIEW
-#### Lecturer app preview                                                 
-<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/LecAppVideo.gif" width="300">
-
-#### Student app preview
-<img src="https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/StudAppVideo.gif" width="300">
-
-##### student app is now available:
-![WithExplanations](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DARASA%20BANNER%20EDIT.png)
-
-
-#### App Store
-
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.job.darasastudent)
 
 
 ## Permissions
@@ -83,17 +60,16 @@ With Darasa Web dashboard. The administration of the school are able to track th
 
 Add the various things that you are working on.  
 
-- [x] Adding scan animations to the Student scan screen
-- [x] Creating a Qr code
-- [ ] Updating the App to use AndroidX
-- [x] Updating theme to Material design components
-- [ ] Adding lecturer messaging to students
-- [ ] Adding notification screen in student app
-- [ ] Make web dashboard more reactive
+- [x] Make app design
+- [x] Add Log in and sign up Screen
+- [ ] Code functionalities
+- [x] add geolocation feature to track tractors
+- [ ] make app database with firebase
+
 
 
 ### Promo Video (Click for full video)
-[![Watch the video](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/screenshots/DarasaPromosupershort.gif)](https://www.youtube.com/watch?v=W8b31sNxOVA)
+[![Watch the video](https://youtu.be/gxskVuo3xHA)
 
 #### CONTRIBUTING
 ### Assets
@@ -108,31 +84,14 @@ I would/ We'd love to have your help in making  **Darasa** better. The project i
 For any concerns, please open an [issue](https://github.com/JobGetabu/Darasa-IEEEMadC/issues), or JUST, [fork the project and send a pull request](https://github.com/JobGetabu/Darasa-IEEEMadC/pulls). 
 
 
-## License 
-* see [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) file
-
-
-## Versions 
-### Lecturer app
-* Version 2.0  DATE 2/12/2018
-* [Download Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk)
-
-### Student app
-* Version 1.5  DATE 2/12/2018
-* [Download Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk)
 
 
 
 ## Contact information
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/JobGetabu). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/JobGetabu/Darasa-IEEEMadC/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address absalomalila@gmail.com
 
 
 #### Developer
-* Homepage: [@About Me](http://jobgetabu.me/)
-* Twitter: [@job_getabu](https://twitter.com/job_getabu )
 
-### Summary
-| [Darasa Lecturer app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Lecturer.apk) | [Darasa Student app](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/apks/Darasa%20Student.apk) | Team Name: Darasa | Darasa project is a class attendance, monitoring and management system | [LICENSE](https://github.com/JobGetabu/Darasa-IEEEMadC/blob/master/LICENSE) | Kenya | [Job Getabu](https://github.com/JobGetabu) | [Denis Mwaniki](https://github.com/sling254) | [Samwel Kamwana](https://github.com/kamwanasamwel)
+* LinkedIn: [@Alila](https://www.linkedin.com/in/alila-absalom-omondi/ )
 
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
