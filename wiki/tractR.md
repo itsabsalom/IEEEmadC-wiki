@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/itsabsalom/IEEEmadC-wiki/blob/gh-pages/wiki/tractR.md">
-    
+    <p>
      <h3 align="center">tractR Path</h3>
-    <p align="center">
+   </p>
   <a href="https://github.com/itsabsalom/IEEEmadC-wiki/blob/gh-pages/tractR4.zip">
    </p>
   </a>
